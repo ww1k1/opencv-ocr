@@ -26,16 +26,13 @@
 * 扫描后的标准文档图像（scan.jpg）：
   * OCR识别文本结果
 
-```text id="demo1"
 这是我的项目
 
-<img width="999" height="795" alt="image" src="https://github.com/user-attachments/assets/7502f54a-133d-48a6-b28e-4377932d984e" /> 
+<img width="999" height="795" alt="image" src="https://github.com/user-attachments/assets/7502f54a-133d-48a6-b28e-4377932d984e" />
 
-<img width="1434" height="1026" alt="image" src="https://github.com/user-attachments/assets/7bc23a6c-14bd-45fd-a35c-bc90f6b48065" /> 
+<img width="1434" height="1026" alt="image" src="https://github.com/user-attachments/assets/7bc23a6c-14bd-45fd-a35c-bc90f6b48065" />
 
-<img width="1437" height="777" alt="image" src="https://github.com/user-attachments/assets/90a3c71d-4502-43ee-abe9-fbfdadbb612f" /> 
-
-```
+<img width="1437" height="777" alt="image" src="https://github.com/user-attachments/assets/90a3c71d-4502-43ee-abe9-fbfdadbb612f" />
 ---
 
 ## 🛠 技术栈
