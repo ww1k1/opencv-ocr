@@ -28,8 +28,11 @@
 
 ```text id="demo1"
 This is a sample text extracted from the document：
+
 <img width="999" height="795" alt="image" src="https://github.com/user-attachments/assets/7502f54a-133d-48a6-b28e-4377932d984e" />
+
 <img width="1434" height="1026" alt="image" src="https://github.com/user-attachments/assets/7bc23a6c-14bd-45fd-a35c-bc90f6b48065" />
+
 <img width="1437" height="777" alt="image" src="https://github.com/user-attachments/assets/90a3c71d-4502-43ee-abe9-fbfdadbb612f" />
 
 ```
