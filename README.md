@@ -28,13 +28,10 @@
 
 ```text id="demo1"
 This is a sample text extracted from the document：
-<img width="669" height="533" alt="image" src="https://github.com/user-attachments/assets/1835bfaf-b8e3-4e89-9bb9-d665de1295dc" />
+<img width="999" height="795" alt="image" src="https://github.com/user-attachments/assets/7502f54a-133d-48a6-b28e-4377932d984e" />
+<img width="1434" height="1026" alt="image" src="https://github.com/user-attachments/assets/7bc23a6c-14bd-45fd-a35c-bc90f6b48065" />
+<img width="1437" height="777" alt="image" src="https://github.com/user-attachments/assets/90a3c71d-4502-43ee-abe9-fbfdadbb612f" />
 
-<img width="669" height="533" alt="image" src="https://github.com/user-attachments/assets/01c19a81-711c-4a46-b557-704705752d42" />
-
-<img width="957" height="683" alt="image" src="https://github.com/user-attachments/assets/e41064ee-38ca-4627-bc73-6d77c2f704ac" />
-
-<img width="872" height="650" alt="image" src="https://github.com/user-attachments/assets/6feda624-c7af-4f63-85ab-9be81c79b5be" />
 ```
 ---
 
